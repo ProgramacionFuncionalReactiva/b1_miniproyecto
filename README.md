@@ -1,2 +1,2 @@
-# b1_miniproyecto
-Miniproyecto - Funciones de orden superior
+# Mini Proyecto: Higher Order Functions
+Programación funcional y reactiva
